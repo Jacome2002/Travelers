@@ -1,0 +1,6 @@
+{
+  "name": "Modo Plan B Proactivo",
+  "description": "Sistema de rescate de itinerarios y contingencia turística proactiva en Cartagena con certificación de Capitanía de Puerto e IDEAM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
